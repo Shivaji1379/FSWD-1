@@ -7,10 +7,12 @@
     <title>Canvas</title>
 </head>
 <body>
-
+    <h2>Canavas Line</h2>
     <canvas id="myCanava" width="300" height="200" style="border: 1px solid #000000;">
+    </canvas>
 
-
+    <h2>Canavas circle</h2>
+    <canvas id="myCanava2" width="300" height="200" style="border: 1px solid #000000;">
     </canvas>
 
     <script>
@@ -19,6 +21,14 @@
         ctx.moveTo(0,0);
         ctx.lineTo(300,200)
         ctx.stroke();
+
+        var c2=document.getElementById("myCanava2");
+        var ctx2=c2.getContext("2d");
+        ctx2.beginPath();
+        ctx2.arc(95,50,40,0,2*Math.PI);
+        ctx2.stroke();
+
+
 
     </script>
     
