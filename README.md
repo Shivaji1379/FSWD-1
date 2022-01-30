@@ -117,7 +117,7 @@ create [styles.css]() to move a car / Progress bar <br>
        
       ## Downloading Bootstrap
        
-       download and host Bootstrap yourself, go to [getbootstrap.com](https://getbootstrap.com/docs/5.1/getting-started/introduction/), and follow the instructions 
+       download and host Bootstrap yourself, go to https://getbootstrap.com/docs/5.1/getting-started/introduction/ , and follow the instructions 
 
        
 
