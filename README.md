@@ -98,4 +98,17 @@ Check if Geolocation is supported <br>
 
 write code (location.html) to print lattitude and longitude <br>
 
+## CSS – Basic Styling
+ Cascading Style Sheets (CSS) is used to format the layout of a webpage. <br>
+ 
+ With CSS, you can control the color, font, the size of text, the spacing between elements, how elements are positioned and laid out, what background images or background colors are to be used, different displays for different devices and screen sizes, and much more! <br>
+ 
+ CSS can be added to HTML documents in 3 ways: <br>
+
+* Inline - by using the style attribute inside HTML elements <br>
+* Internal - by using a <style> element in the <head> section <br>
+* External - by using a <link> element to link to an external CSS file <br>
+
+create [styles.css]() to move a car
+
 
