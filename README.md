@@ -109,6 +109,16 @@ write code (location.html) to print lattitude and longitude <br>
 * Internal - by using a <style> element in the <head> section <br>
 * External - by using a <link> element to link to an external CSS file <br>
 
-create [styles.css]() to move a car
+create [styles.css]() to move a car / Progress bar <br>
+       ## Bootstrap
+       * Bootstrap is a free front-end framework for faster and easier web development
+       * Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins
+       * Bootstrap also gives you the ability to easily create responsive designs
+       
+      ## Downloading Bootstrap
+       
+       download and host Bootstrap yourself, go to [getbootstrap.com](https://getbootstrap.com/docs/5.1/getting-started/introduction/), and follow the instructions 
+
+       
 
 
