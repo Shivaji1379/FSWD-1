@@ -86,7 +86,7 @@ Drag and drop is a very common feature. It is when you "grab" an object and drag
 div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)" <br>
 img id="drag1" src="logo.jpg" draggable="true" ondragstart="drag(event)" width="336" height="69" <br>
 
-write code (drag_drop.html) to drag logo to div <br>
+write code [drag_drop.html](https://github.com/nagarajuthandu/FSWD/blob/main/drag_drop.html) to drag logo to div <br>
 
 ## Geo Location.
 HTML Geolocation API is used to locate a user's position <br>
