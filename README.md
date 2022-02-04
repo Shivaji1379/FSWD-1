@@ -96,7 +96,7 @@ Check if Geolocation is supported <br>
 -If the getCurrentPosition() method is successful, it returns a coordinates object to the function specified in the parameter (showPosition)<br>
 -The showPosition() function outputs the Latitude and Longitude<br>
 
-write code (location.html) to print lattitude and longitude <br>
+write code [location.html](https://github.com/nagarajuthandu/FSWD/blob/main/location.html) to print lattitude and longitude <br>
 
 ## CSS – Basic Styling
  Cascading Style Sheets (CSS) is used to format the layout of a webpage. <br>
