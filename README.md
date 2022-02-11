@@ -25,6 +25,8 @@ Step 2: run the following commands in your command prompt<br>
        - git push origin main<br>
 Step 3 open Your git hub repository and see the changes
 
+[![Alt text](https://img.youtube.com/vi/PJ32dRdVNxw/0.jpg)](https://www.youtube.com/watch?v=PJ32dRdVNxw)
+
 
 ## Introduction to HTML5 
 ### video elemets
